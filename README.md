@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm @BothBasilisk, a Java software engineer
+I'm BothBasilisk, a Java software engineer
 
 I try to build every thing that pops into my mind
 
