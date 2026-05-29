@@ -2,9 +2,7 @@
 
 I'm BothBasilisk, a Java software engineer
 
-I try to build every thing that pops into my mind
-
-Currently I wanted to learn something new and decided to challenge myself programming a graphic engine in Java and OpenGL
+I try to build every thing that pops into my mind, from graphics engine to AI
 
 <!--
 **BothBasilisk/BothBasilisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
